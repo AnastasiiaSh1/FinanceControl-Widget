@@ -4,4 +4,4 @@ This application was developed as part of my journey in learning Android develop
   <img src="screenshot1.jpg" width="300" alt="Home Screen Widget">
   <img src="screenshot2.jpg" width="300" alt="Main Interface">
 </p>
-This application was developed as part of my journey in learning Android development.
+
